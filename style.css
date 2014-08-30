@@ -1,0 +1,44 @@
+body {
+font-family: helvetica,  sans-serif;
+}
+
+h1 {
+text-align: center;
+}
+.header {
+background-color: green;
+overflow: hidden;
+}
+
+.sidebar {
+background-color: blue;
+float: left; 
+overflow: hidden;
+}
+
+.main {
+background-color: red;
+#float: left;
+overflow: hidden;
+}
+
+.footer {
+background-color: yellow;
+overflow: hidden;
+}
+
+.header-text {
+padding: 5px;
+}
+
+.main-text {
+padding: 5px;
+}
+
+.sidebar-text {
+padding: 5px;
+}
+
+.footer-text {
+padding: 5px;
+}
